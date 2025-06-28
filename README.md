@@ -132,6 +132,6 @@ We welcome collaboration from:
 
 This project is in the conceptual and planning phase. We're building a community of contributors passionate about using technology to improve emergency response systems and save lives.
 
----
+----
 
 *This project is dedicated to all emergency responders who risk their lives to save others. Every second saved in traffic could be a life saved in the hospital.*
